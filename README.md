@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.me/rauldose)
+
 # BrainrotSQL
 
 BrainrotSQL is a SQL dialect interpreter that translates queries written using Italian Brainrot meme character names into standard SQL. This project features both a basic and an enhanced version of the BrainrotSQL language.
