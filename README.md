@@ -2,6 +2,8 @@
 
 BrainrotSQL is a SQL dialect interpreter that translates queries written using Italian Brainrot meme character names into standard SQL. This project features both a basic and an enhanced version of the BrainrotSQL language.
 
+![image](https://github.com/user-attachments/assets/7f006ccd-0fc4-4d42-823d-7cd6d5dd9a62)
+
 ## Project Structure
 
 - **BrainrotSql.Engine**: Core library for the basic BrainrotSQL implementation
@@ -49,7 +51,7 @@ trippa frulli lirilì larilà users
 
 ### Prerequisites
 
-- .NET 6.0 SDK or later
+- .NET 8.0 SDK or later
 - Visual Studio 2022 or another C# IDE
 
 ### Building the Project
@@ -85,8 +87,6 @@ while (reader.Read())
 ## Documentation
 
 - See the [BrainrotSQL_CheatSheet.md](BrainrotSQL_CheatSheet.md) for a quick reference of keywords
-- Check the [ImprovedBrainrotSQL/README.md](ImprovedBrainrotSQL/README.md) for details on the enhanced version
-- Example queries are available in [BrainrotSQL_Examples.md](BrainrotSQL_Examples.md)
 
 ## License
 
