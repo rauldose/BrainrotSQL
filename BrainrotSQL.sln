@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainrotSql.Engine", "BrainrotSQL.Engine\BrainrotSql.Engine.csproj", "{0AE8F0DF-6F3A-473B-9CFE-2C9D250DE11C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainrotSql.SqliteDemo", "BrainrotSql.SqliteDemo\BrainrotSql.SqliteDemo.csproj", "{90D7BD84-3CFA-4226-BF84-17A3A5A34034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE8F0DF-6F3A-473B-9CFE-2C9D250DE11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE8F0DF-6F3A-473B-9CFE-2C9D250DE11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE8F0DF-6F3A-473B-9CFE-2C9D250DE11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE8F0DF-6F3A-473B-9CFE-2C9D250DE11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D7BD84-3CFA-4226-BF84-17A3A5A34034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D7BD84-3CFA-4226-BF84-17A3A5A34034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D7BD84-3CFA-4226-BF84-17A3A5A34034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D7BD84-3CFA-4226-BF84-17A3A5A34034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E239D1D-BF51-4826-BDA1-80590E49F627}
+	EndGlobalSection
+EndGlobal
